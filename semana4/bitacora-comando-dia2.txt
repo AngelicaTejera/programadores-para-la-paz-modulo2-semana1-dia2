@@ -60,7 +60,7 @@ Respuesta: git add .
 
 13. Comando usado para crear commit:
 
-Respuesta: git commit -m "ppp modulo 2 semana 1 dia2"
+Respuesta: git commit -m "Fetch cliente servidor modulo 2 semana 1 dia2"
 
 14. Comando usado para publicar la rama:
 
